@@ -1,0 +1,6 @@
+defaults:
+  - base.yaml
+
+classname: KNNPostprocessor
+K: 50
+layer_index: 0

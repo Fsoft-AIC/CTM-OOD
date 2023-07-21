@@ -1,0 +1,8 @@
+init_params:
+  _target_: model_zoo.wrn.WideResNet
+  depth: 40
+  widen_factor: 2
+  dropRate: 0.3
+ckpt_path: ${paths.ckpt_root}/${in_dataset}_pretrained/${in_dataset}_wrn_pretrained_epoch_99.pt
+data_mean: [0.4914, 0.4824, 0.4467]
+data_std: [0.2471, 0.2435, 0.2616]

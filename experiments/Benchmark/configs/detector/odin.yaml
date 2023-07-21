@@ -1,0 +1,6 @@
+defaults:
+  - base.yaml
+
+classname: ODINDetector
+T: 1000
+noise_magnitude: 0.0014

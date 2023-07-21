@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+scikit_learn
+ood-metrics
+pandas
+matplotlib
+tqdm
+Pillow
+faiss-gpu # For KNN detector
+hydra
+hydra-colorlog
+pyrootutils
+Jinja2 # For convert DataFrame to Latex table 

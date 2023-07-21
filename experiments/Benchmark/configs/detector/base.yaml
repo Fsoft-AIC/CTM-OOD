@@ -1,0 +1,3 @@
+classname: BaseDetector
+_target_: core.detection.methods.post_hoc.${detector.classname}
+_partial_: True

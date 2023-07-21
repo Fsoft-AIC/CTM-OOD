@@ -1,0 +1,6 @@
+defaults:
+  - base.yaml
+
+classname: MahalanobisDetector
+noise_magnitude: 0.005
+layer_index: 0

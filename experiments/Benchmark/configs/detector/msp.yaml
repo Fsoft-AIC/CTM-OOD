@@ -1,0 +1,6 @@
+defaults:
+  - base.yaml
+
+classname: MSPDetector
+use_xent: False
+T: null

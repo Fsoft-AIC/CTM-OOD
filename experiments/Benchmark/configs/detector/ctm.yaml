@@ -1,0 +1,7 @@
+defaults:
+  - base.yaml
+
+classname: CTMDetector
+cache_class_means: null
+cache_feats: null
+layer_index: 0
